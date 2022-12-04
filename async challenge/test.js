@@ -1,6 +1,7 @@
-const input = "If man was meant to stay on the ground, god would have given us roots.";
+const input = "I am a good guy in javascript";
 const changedInput = input.replace(/[^\w]/g, "").toLowerCase();
 const length = changedInput.length;
+if (length > 81) return console.log("error input");
 const cols = Math.ceil(Math.sqrt(length));
 const rows = Math.ceil(length / cols);
 
@@ -26,3 +27,12 @@ for (let i = 0; i < cols; i ++) {
 
 console.log(squredText);
 console.log(plainText);
+
+
+iamag
+oodgu
+yinja
+vascr
+ipt
+
+ioyvi aoiap mdnst agjc guar
