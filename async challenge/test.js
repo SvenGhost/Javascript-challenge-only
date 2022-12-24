@@ -27,12 +27,3 @@ for (let i = 0; i < cols; i ++) {
 
 console.log(squredText);
 console.log(plainText);
-
-
-iamag
-oodgu
-yinja
-vascr
-ipt
-
-ioyvi aoiap mdnst agjc guar
